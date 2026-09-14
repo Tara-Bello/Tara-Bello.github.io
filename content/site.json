@@ -1,11 +1,11 @@
 {
-  "name": "Jane Doe",
-  "short_name": "Jane",
-  "publication_name": "Jane Doe",
-  "citation_name": "J. Doe",
-  "email_display": "jane [dot] doe [at] example [dot] edu",
-  "site_title": "Jane Doe | Academic Website",
-  "description": "Academic website of Jane Doe.",
+  "name": "Tara Bello",
+  "short_name": "Tara",
+  "publication_name": "Tara Marie Bello",
+  "citation_name": "T. Bello",
+  "email_display": "tmbello@syr.edu",
+  "site_title": "Tara Bello | Academic Website",
+  "description": "Academic website of Tara Bello.",
   "copyright_year": 2026,
   "footer_text": "Last updated:",
   "attribution": {
@@ -21,24 +21,23 @@
     { "label": "CV", "path": "pages/cv.html" }
   ],
   "pages": {
-    "index.html": { "title": "", "description": "Academic website of Jane Doe." },
-    "projects.html": { "title": "Projects", "description": "Research projects by Jane Doe." },
-    "publications.html": { "title": "Publications", "description": "Publications by Jane Doe." },
-    "news.html": { "title": "News", "description": "Latest news and updates from Jane Doe." },
-    "cv.html": { "title": "CV", "description": "Curriculum Vitae of Jane Doe." }
+    "index.html": { "title": "", "description": "Academic website of Tara Bello." },
+    "projects.html": { "title": "Projects", "description": "Research projects by Tara Bello." },
+    "publications.html": { "title": "Publications", "description": "Publications by Tara Bello." },
+    "news.html": { "title": "News", "description": "Latest news and updates from Tara Bello." },
+    "cv.html": { "title": "CV", "description": "Curriculum Vitae of Tara Bello." }
   },
-  "profile_image": "assets/images/profile-placeholder.svg",
-  "profile_image_alt": "Jane Doe profile photo placeholder",
-  "bio_html": "Jane is a doctoral researcher in Example Department at Example University. Her research focuses on an interesting research area and its applications to real-world problems. Previously, Jane completed a master's degree in Example Subject and a bachelor's degree in Example Subject. Replace this paragraph with your own biography in <code>content/site.json</code>.",
+  "profile_image": "assets/images/Headshotwebsite1.jpg",
+  "profile_image_alt": "Tara profile photo",
+  "bio_html": "I am a Ph.D. student in Social Psychology at Syracuse University, working under the mentorship of Dr. Jeewon Oh. My research examines how people live healthy and happy lives through the lens of social ties and personality, with particular focus on friendships, singlehood, and well-being, using quantitative and qualitative methods. I hold an M.S. in Clinical Psychology from Morehead State University. Understanding how people build and sustain meaningful social connections has real-world implications for public health, as loneliness and social isolation are increasingly recognized as risk factors for both mental and physical health.",
   "contact": [
-    "jane [dot] doe [at] example [dot] edu",
-    "Example Department, Example University, City, Country"
+    "tmbello [at] syr.edu",
+    "Department of Psychology, Syracuse University, Syracuse, New York"
   ],
   "social_links": [
-    { "label": "University profile", "url": "https://example.edu/your-profile", "image": "assets/images/institution-placeholder.svg", "image_class": "institution-logo", "image_alt": "Institution logo placeholder" },
-    { "label": "Google Scholar", "url": "https://scholar.google.com/", "icon": "fa-brands fa-google-scholar" },
-    { "label": "LinkedIn", "url": "https://www.linkedin.com/", "icon": "fa-brands fa-linkedin" },
-    { "label": "GitHub", "url": "https://github.com/your-username", "icon": "fa-brands fa-square-github" },
-    { "label": "ORCID", "url": "https://orcid.org/", "icon": "fa-brands fa-orcid" }
+    { "label": "O.H. Lab", "url": "https://ohjeewon.com", "icon": "fa-solid fa-flask"},
+    { "label": "Google Scholar", "url": "https://scholar.google.com/citations?user=9lV2JIoAAAAJ&hl=en&oi=ao", "icon": "fa-brands fa-google-scholar" },
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/tarabello", "icon": "fa-brands fa-linkedin" },
+    { "label": "ORCID", "url": "https://orcid.org/0009-0003-7183-0888", "icon": "fa-brands fa-orcid" }
   ]
 }

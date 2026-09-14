@@ -1,22 +1,36 @@
 [
   {
-    "date": "2026-06-15",
-    "text": "Jane presented recent research at the Example International Conference.",
+    "date": "2026-08-01",
+    "text": "Tara joined the Barnes Center at Syracuse University as a Data & Research Intern",
+    "image": "",
+    "gif": ""
+  },
+  {
+    "date": "2026-06-01",
+    "text": "Tara joined the NIH-funded Summer Training in Alcohol and Health Research (STAHR-U) Program as a Graduate Research Assistant, mentoring undergraduate scholars in alcohol, substance use, and behavioral health research under Dr. Aesoon Park (Program Director) at Syracuse University.",
+    "image": "",
+    "gif": ""
+  },
+  {
+    "date": "2026-05-21",
+    "text": "Tara co-authored a book chapter, 'Who Does Singlehood Best? Personality Differences in Singlehood,' that was published in the Oxford Handbook of Singlehood.",
     "image": "",
     "gif": "",
-    "url": "https://example.com",
-    "url_label": "Conference website"
+    "url": "https://doi.org/10.1093/9780197826461.003.0014",
+    "url_label": "Read the chapter"
   },
   {
-    "date": "2026-03-10",
-    "text": "Jane's paper on an example research topic was accepted for publication.",
+    "date": "2026-05-18",
+    "text": "Tara served as instructor for Psychology 252: Statistical Methods II at Syracuse University.",
     "image": "",
     "gif": ""
   },
   {
-    "date": "2026-01-08",
-    "text": "Jane joined Example University as a doctoral researcher.",
+    "date": "2026-02-03",
+    "text": "Tara co-authored a paper, 'Who Lives a Good Single Life? From Basic Need Satisfaction to Attachment, Sociosexuality, and Reasons for Being Single,' that was published in Personal Relationships.",
     "image": "",
-    "gif": ""
+    "gif": "",
+    "url": "http://dx.doi.org/10.1111/pere.70053",
+    "url_label": "Read the article"
   }
 ]

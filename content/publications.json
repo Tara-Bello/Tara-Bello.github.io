@@ -1,46 +1,139 @@
 [
   {
-    "id": "example-journal-article",
-    "title": "An Example Journal Article Title",
-    "content": "Jane Doe, Jamie Taylor, and Sam Lee",
-    "link": "https://doi.org/10.0000/example.2026.001",
-    "publisher": "Journal of Example Research, 2026",
-    "image": "assets/images/publications/placeholder-cover.svg",
+    "id": "oh-bello-2026-good-single-life",
+    "title": "Who lives a good single life? From basic need satisfaction to attachment, sociosexuality, and reasons for being single",
+    "content": "Oh, J., Stoianova, A., Bello, T. M., & De La Cruz, A.",
+    "link": "http://dx.doi.org/10.1111/pere.70053",
+    "publisher": "Personal Relationships, 2026",
+    "image": "assets/images/publications/oh-bello-2026-good-single-life.png",
     "tags": ["key_publications", "journal"],
     "buttons": [
-      { "id": 1, "title": "Publisher", "link": "https://example.com" },
-      { "id": 2, "title": "Code", "link": "https://github.com/your-username/example-project" }
+      { "id": 1, "title": "DOI", "link": "http://dx.doi.org/10.1111/pere.70053" }
     ],
     "created_at": 1767225600,
     "updated_at": 1767225600
   },
   {
-    "id": "example-conference-paper",
-    "title": "An Example Conference Paper Title",
-    "content": "Jamie Taylor, Jane Doe, and Robin Smith",
-    "link": "https://example.com",
-    "publisher": "Proceedings of the Example Conference, 2025",
-    "image": "assets/images/publications/placeholder-cover.svg",
-    "tags": ["key_publications", "conference"],
+    "id": "oh-bello-2026-oxford-handbook",
+    "title": "Who does singlehood best? Personality differences in singlehood",
+    "content": "Oh, J., Bello, T. M., Stoianova, A., & Chopik, W. J.",
+    "link": "https://doi.org/10.1093/9780197826461.003.0014",
+    "publisher": "In Y. Girme & G. MacDonald (Eds.), Oxford Handbook of Singlehood (1st ed.), Oxford University Press, in press",
+    "image": "assets/images/publications/oh-bello-2026-oxford-handbook.png",
+    "tags": ["key_publications", "journal"],
     "buttons": [
-      { "id": 1, "title": "Paper", "link": "https://example.com" },
-      { "id": 2, "title": "Data", "link": "https://example.com" }
+      { "id": 1, "title": "DOI", "link": "https://doi.org/10.1093/9780197826461.003.0014" }
     ],
-    "created_at": 1735689600,
-    "updated_at": 1735689600
+    "created_at": 1767225600,
+    "updated_at": 1767225600
   },
   {
-    "id": "example-preprint",
-    "title": "An Example Preprint Title",
-    "content": "Jane Doe and Casey Chen",
-    "link": "https://arxiv.org/",
-    "publisher": "arXiv preprint, 2024",
-    "image": "assets/images/publications/placeholder-cover.svg",
-    "tags": ["preprint"],
+    "id": "lodl-bello-2026-urf",
+    "title": "Wanting vs. Having to Stay Single",
+    "content": "Lodl, C., Qasim, S., Hines, L., Jones, N., Bello, T. M., & Oh, J.",
+    "link": "",
+    "publisher": "Undergraduate Research Festival, Syracuse University, 2026",
+    "image": "assets/images/publications/lodl-bello-2026-urf.png",
+    "tags": ["conference"],
     "buttons": [
-      { "id": 1, "title": "Preprint", "link": "https://arxiv.org/" }
+      { "id": 1, "title": "Poster (PDF)", "link": "https://drive.google.com/file/d/1kVlNHxBNHobcHmkmM4eTcgERh0JFpF-R/view?usp=share_link" }
     ],
-    "created_at": 1704067200,
-    "updated_at": 1704067200
+    "created_at": 1775865600,
+    "updated_at": 1775865600
+  },
+  {
+    "id": "bello-oh-2025-issc",
+    "title": "Commitment to Singlehood: Testing Measurement Invariance Across Groups",
+    "content": "Bello, T. M., & Oh, J.",
+    "link": "",
+    "publisher": "International Singles Studies Conference, 2025",
+    "image": "assets/images/publications/bello-oh-2025-issc.png",
+    "tags": ["conference"],
+    "buttons": [
+      { "id": 1, "title": "Slides (PDF)", "link": "https://drive.google.com/file/d/1VWmR3q4ruWT5Fxmch1YNkFKci0xLxXeR/view?usp=sharing" }
+    ],
+    "created_at": 1751241600,
+    "updated_at": 1751241600
+  },
+  {
+    "id": "bello-beauparlant-oh-2025-arp",
+    "title": "Commitment to Singlehood: Testing Measurement Invariance",
+    "content": "Bello, T. M., Beauparlant, E., & Oh, J.",
+    "link": "",
+    "publisher": "Association for Research in Personality Conference, Evanston, IL, 2025",
+    "image": "assets/images/publications/bello-beauparlant-oh-2025-arp.png",
+    "tags": ["conference"],
+    "buttons": [
+      { "id": 1, "title": "Poster (PDF)", "link": "https://drive.google.com/file/d/1LZ1B7MtQmpQM4FPb-2_V12LWv3cCwlgR/view?usp=share_link" }
+    ],
+    "created_at": 1751068800,
+    "updated_at": 1751068800
+  },
+  {
+    "id": "adams-bello-2025-urf",
+    "title": "Commitment to Singlehood Across Gender: Testing Measurement Invariance",
+    "content": "Adams, A., Simone, B., Li, R., Lodl, C., Bello, T. M., & Oh, J.",
+    "link": "",
+    "publisher": "Undergraduate Research Festival, Syracuse University, 2025",
+    "image": "assets/images/publications/adams-bello-2025-urf.png",
+    "tags": ["conference"],
+    "buttons": [
+      { "id": 1, "title": "Poster (PDF)", "link": "https://drive.google.com/file/d/18nsyWTcdzh097eD14GlPm1_SH6zFWqpo/view?usp=share_link" }
+    ],
+    "created_at": 1744329600,
+    "updated_at": 1744329600
+  },
+  {
+    "id": "bello-remillard-2025-spsp",
+    "title": "An Examination of the Mediating Role of Eudaimonic Well-being in the Relationship between Psychological Flexibility and Subjective Well-being",
+    "content": "Bello, T. M., & Remillard, G.",
+    "link": "",
+    "publisher": "Society for Personality and Social Psychology Annual Conference, Denver, CO, 2025",
+    "image": "assets/images/publications/bello-remillard-2025-spsp.png",
+    "tags": ["conference"],
+    "buttons": [
+      { "id": 1, "title": "Poster (PDF)", "link": "https://drive.google.com/file/d/16uUY06klzhhHcuTtcGrZ4F97Eqrb2FNY/view?usp=share_link" }
+    ],
+    "created_at": 1740182400,
+    "updated_at": 1740182400
+  },
+  {
+    "id": "bello-barber-jicha-2023-markesbery",
+    "title": "Exploring the Eudaimonic Activity Model of Wellbeing and Relationship Status Among Older Adults",
+    "content": "Bello, T. M., Barber, J. M., & Jicha, G. A.",
+    "link": "",
+    "publisher": "Markesbery Symposium on Aging and Dementia, University of Kentucky, 2023",
+    "image": "assets/images/publications/bello-barber-jicha-2023-markesbery.png",
+    "tags": ["conference"],
+    "buttons": [
+      { "id": 1, "title": "Poster (PDF)", "link": "https://drive.google.com/file/d/1OAb3AWUD8mYbkzZJPdM6CHLR4dJR2oVq/view?usp=share_link" }
+    ],
+    "created_at": 1700179200,
+    "updated_at": 1700179200
+  },
+  {
+    "id": "russell-bello-2023-kas",
+    "title": "Parental Sensitivity in the Development of Teen Self-Compassion",
+    "content": "Russell, A. G., Stoni, B. N., Conley, S. R., Bello, T. M., & Kidwell, S. L.",
+    "link": "",
+    "publisher": "Kentucky Academy of Science, Northern Kentucky University, 2023",
+    "image": "assets/images/publications/russell-bello-2023-kas.png",
+    "tags": ["conference"],
+    "created_at": 1698969600,
+    "updated_at": 1698969600
+  },
+  {
+    "id": "bello-urs-kidwell-2023-kps",
+    "title": "Preschooler Attachment and Adolescent Psychological Flexibility",
+    "content": "Bello, T. M., Urs, A., & Kidwell, S. L.",
+    "link": "",
+    "publisher": "Kentucky Psychological Science Conference, Eastern Kentucky University, 2023",
+    "image": "assets/images/publications/bello-urs-kidwell-2023-kps.png",
+    "tags": ["conference"],
+    "buttons": [
+      { "id": 1, "title": "Poster (PDF)", "link": "https://drive.google.com/file/d/1TOo293__XeRxY5HzdjVahmjTywMFC77_/view?usp=sharing" }
+    ],
+    "created_at": 1679702400,
+    "updated_at": 1679702400
   }
 ]

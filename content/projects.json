@@ -1,26 +1,26 @@
 [
   {
     "id": "project-example-one",
-    "title": "Example Research Project",
-    "summary": "A concise description of the research question, method, and intended impact of this project.",
-    "image": "assets/images/project-placeholder.svg",
-    "image_alt": "Example Research Project placeholder image",
+    "title": "Who is Committed to Singlehood?",
+    "summary": "This project tests whether a new measure of commitment to singlehood holds up across different kinds of single people - including the difference between wanting to stay single and feeling like one has to.",
+    "image": "assets/images/single.png",
+    "image_alt": "Illustration representing singlehood and relationship status",
     "url": "pages/projects/project-example-one.html"
   },
   {
     "id": "project-example-two",
-    "title": "Example Collaborative Project",
-    "summary": "A second example showing how to describe collaborative or interdisciplinary research.",
-    "image": "assets/images/project-placeholder.svg",
-    "image_alt": "Example Collaborative Project placeholder image",
+    "title": "Who Thrives on Ties?",
+    "summary": "People rely on both close relationships and more peripheral ties for well-being. This project tests whether different types of ties matter more for different people, and whether attachment style explains who benefits the most from each type of tie",
+    "image": "assets/images/socialtie.png",
+    "image_alt": "Image representing social ties",
     "url": "pages/projects/project-example-two.html"
   },
   {
     "id": "project-external",
-    "title": "Project with an External Website",
-    "summary": "Project cards may also link directly to an external project website or software demonstration.",
-    "image": "assets/images/project-placeholder.svg",
-    "image_alt": "External project placeholder image",
-    "url": "https://example.com"
+    "title": "Fringeships: The Ties on the Edge of Friendship",
+    "summary": "Fringeships are ties that sit between acquaintance and friend - regular and mutually recognized, but without the obligations of close friendship. We are collecting longitudinal data to test whether fringeships boost well-being by satisfying needs for novelty and belonging. Project is in data collection phase as of 8/30/26.",
+    "image": "assets/images/fringeships.png",
+    "image_alt": "image representing fringeships",
+    "url": ""
   }
 ]

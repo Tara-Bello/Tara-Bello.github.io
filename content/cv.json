@@ -3,85 +3,194 @@
     "title": "Research Experience",
     "entries": [
       {
-        "title": "Doctoral Researcher",
-        "organization": "Example University",
-        "dates": "Sep 2024 - Present",
-        "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "Example University logo placeholder",
-        "flag": "GB-ENG",
-        "flag_alt": "Country flag",
+        "title": "Graduate Researcher",
+        "organization": "Syracuse University",
+        "dates": "2024 - Present",
         "bullets": [
-          "Researching an example topic in the Example Research Group.",
-          "Developing methods for an example application and collaborating with domain experts."
-        ]
+          "Design and execute quantitative research projects using primary datasets (N = 450+) and secondary datasets (N = 1,000+), including longitudinal and cross-sectional survey data collected via Qualtrics and REDCap.",
+          "Conduct advanced statistical analyses in R and Mplus, including structural equation modeling (SEM), measurement invariance testing, multilevel modeling, regression, mediation, and moderation",
+          "Develop data visualizations in R (ggplot2) and Mplus (Diagrammer) to communicate findings to research and academic audiences.",
+          "Mentor undergraduate research assistants in study design, data collection, and presentation."
+        ],
+        "logo": "assets/images/SUlogo.jpeg",
+        "logo_alt": "Syracuse University logo"
       },
       {
-        "title": "Research Assistant",
-        "organization": "Example Research Institute",
-        "dates": "Jun 2023 - Aug 2024",
-        "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "Example Research Institute logo placeholder",
-        "flag": "US",
-        "flag_alt": "Country flag",
+        "title": "Graduate Researcher",
+        "organization": "Morehead State University",
+        "dates": "2022 - 2024",
         "bullets": [
-          "Supported an interdisciplinary research project.",
-          "Analysed data and contributed to a peer-reviewed manuscript."
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Teaching Experience",
-    "entries": [
+          "Designed and executed a quantitative research study collecting survey data from 400+ participants; conducted mediation analysis using SPSS.",
+          "Developed a qualitative coding scheme and systematically coded open-ended survey responses for thematic analysis.",
+          "Presented findings at regional psychology conference; awarded 1st place in Graduate Poster Competition (2023)."
+        ],
+        "logo": "assets/images/MSUlogo.jpeg",
+        "logo_alt": "Morehead State University logo"
+      },
       {
-        "title": "Teaching Assistant",
-        "organization": "Example University",
-        "dates": "Jan 2025 - May 2025",
-        "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "Example University logo placeholder",
-        "flag": "GB-ENG",
-        "flag_alt": "Country flag",
+        "title": "Clinical Research Intern",
+        "organization": "Sanders-Brown Center on Aging, University of Kentucky",
+        "dates": "Summer 2023",
         "bullets": [
-          "Assisted with Example Course: Introduction to the Subject.",
-          "Led tutorials and provided feedback on coursework."
-        ]
+          "Administered 30+ standardized neuropsychological assessments to participants in a longitudinal aging study (N = 1,000+) and conducted semi-structured clinical interviews.",
+          "Received Outstanding Poster Award at the 13th Annual Markesbery Symposium on Aging and Dementia."
+        ],
+        "logo": "assets/images/UKlogo.png",
+        "logo_alt": "University of Kentucky logo"
       }
     ]
   },
   {
+  "title": "Teaching Experience",
+  "entries": [
+    {
+      "title": "Instructor",
+      "organization": "Syracuse University",
+      "dates": "2025 - 2026",
+      "bullets": [
+        "Psychology 252: Statistical Methods II (Summer 2026)",
+        "Psychology 374: Social Psychology (Summer 2025)"
+      ],
+      "logo": "assets/images/SUlogo.jpeg",
+      "logo_alt": "Syracuse University logo"
+    },
+    {
+      "title": "Teaching Assistant",
+      "organization": "Syracuse University",
+      "dates": "2024 - 2026",
+      "bullets": [
+        "Psychology 213: Introduction to Research Methodology, under Dr. Brad Seymour (Spring 2026)",
+        "Psychology 205: Foundations of Human Behavior, under Dr. Meredith Martin (Fall 2024, Spring 2025, Fall 2025)"
+      ],
+      "logo": "assets/images/SUlogo.jpeg",
+      "logo_alt": "Syracuse University logo"
+    },
+    {
+      "title": "Teaching Assistant",
+      "organization": "Morehead State University",
+      "dates": "2022 - 2024",
+      "bullets": [
+        "Psychology 657: Intellectual Assessment, under Dr. Shari Kidwell (Spring 2024)",
+        "Psychology 359: Applied Behavioral Analysis, under Dr. JT Blackledge (Spring 2023, Spring 2024)",
+        "Psychology 661: Psychopathology, under Dr. Shari Kidwell (Fall 2023)",
+        "Psychology 655: Personality & Behavioral Assessment, under Dr. Shari Kidwell (Fall 2023)",
+        "Psychology 469: Counseling Psychology, under Dr. Shari Kidwell (Spring 2023)",
+        "Psychology 452: Disorders of Childhood, under Dr. JT Blackledge (Fall 2022)",
+        "Psychology 352: Introduction to Clinical Psychology, under Dr. JT Blackledge (Fall 2022)"
+      ],
+      "logo": "assets/images/MSUlogo.jpeg",
+      "logo_alt": "Morehead State University logo"
+    }
+  ]
+    },
+    {
     "title": "Education",
     "entries": [
       {
-        "title": "Doctor of Philosophy (PhD), Example Subject",
-        "organization": "Example University",
+        "title": "Doctor of Philosophy (PhD), Social Psychology",
+        "organization": "Syracuse University",
         "dates": "2024 - Present",
-        "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "Example University logo placeholder",
-        "flag": "GB-ENG",
-        "flag_alt": "Country flag"
+        "bullets": ["Advisor: Dr. Jeewon Oh"],
+        "logo": "assets/images/SUlogo.jpeg",
+        "logo_alt": "Syracuse University logo"
       },
       {
-        "title": "Master of Science, Example Subject",
+        "title": "Master of Science, Clinical Psychology",
         "organization": "Example University",
         "dates": "2022 - 2023",
-        "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "Example University logo placeholder",
-        "flag": "US",
-        "flag_alt": "Country flag"
+        "logo": "assets/images/MSUlogo.jpeg",
+        "logo_alt": "Morehead State University logo"
+      },
+      {
+        "title": "B.S. in Psychology, Cum Laude",
+        "organization": "Morehead State University",
+        "dates": "2020 - 2022",
+        "bullets": ["Advisor: Dr. Gregory Corso"],
+        "logo": "assets/images/MSUlogo.jpeg",
+        "logo_alt": "Morehead State University logo"
+      },
+      {
+        "title": "A.A. in Psychology, Summa Cum Laude",
+        "organization": "College of the Canyons",
+        "dates": "2018 - 2020",
+        "logo": "assets/images/COClogo.png",
+        "logo_alt": "College of Canyons logo"
       }
     ]
   },
   {
-    "title": "Honors and Awards",
+    "title": "Honors & Awards",
     "entries": [
       {
-        "title": "Example Academic Award",
-        "organization": "Example Professional Society",
-        "dates": "May 2025",
-        "logo": "assets/images/institution-placeholder.svg",
-        "logo_alt": "Awarding organization logo placeholder",
-        "flag": "GB-ENG",
-        "flag_alt": "Country flag"
+        "title": "GSA Travel Award ($250)",
+        "organization": "Gerontological Society of America",
+        "dates": "2026",
+        "bullets": [],
+        "logo": "assets/images/GSAlogo.png",
+        "logo_alt": "GSA logo"
+      },
+      {
+        "title": "ARP Student Diversity Travel Award ($195)",
+        "organization": "Association for Research in Personality",
+        "dates": "2025",
+        "bullets": [],
+        "logo": "assets/images/arplogo.png",
+        "logo_alt": "ARP logo"
+      },
+      {
+        "title": "Outstanding Clinical Psychology Graduate Student",
+        "organization": "Morehead State University",
+        "dates": "2024",
+        "bullets": [],
+        "logo": "assets/images/MSUlogo.jpeg",
+        "logo_alt": "Morehead State University logo"
+      },
+      {
+        "title": "Outstanding Poster Award",
+        "organization": "Annual Markesbery Symposium on Aging and Dementia",
+        "dates": "2023",
+        "bullets": [],
+        "logo": "assets/images/UKlogo.png",
+        "logo_alt": "University of Kentucky logo"
+      },
+      {
+        "title": "1st Place, Graduate Poster Competition ($400)",
+        "organization": "Kentucky Psychological Science Conference (KPS)",
+        "dates": "2023",
+        "bullets": [],
+        "logo": "assets/images/KPSlogo.jpeg",
+        "logo_alt": "Kentucky Psychological Science logo"
+      },
+      {
+        "title": "Finalist, Active Minds Healthy Campus Award",
+        "organization": "Morehead State University",
+        "dates": "2020",
+        "bullets": [],
+        "logo": "assets/images/activemindslogo.png",
+        "logo_alt": "Active Minds logo"
+      }
+    ]
+  },
+  {
+    "title": "Professional Affiliations",
+    "entries": [
+      {
+        "title": "Society for Personality and Social Psychology (SPSP)",
+        "dates": "2024 - Present",
+        "logo": "assets/images/SPSPlogo.svg",
+        "logo_alt": "SPSP logo"
+      },
+      {
+        "title": "Association for Research in Personality (ARP)",
+        "dates": "2024 - Present",
+        "logo": "assets/images/arplogo.png",
+        "logo_alt": "ARP logo"
+      },
+      {
+        "title": "Gerontological Society of America (GSA)",
+        "dates": "2026 - Present",
+        "logo": "assets/images/GSAlogo.png",
+        "logo_alt": "GSA logo"
       }
     ]
   }
